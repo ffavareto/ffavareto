@@ -10,4 +10,4 @@
 Sou desenvolvedor front-end júnior e instrutor digital na [@faculdadeiv2](https://faculdadeiv2.com.br/).
 
 - O que eu faço - Ajudo desenvolvedores iniciantes.
-- O que estou aprendendo - Dart, Flutter, Angular.
+- O que estou aprendendo - Flutter, Angular, Rust e Python.

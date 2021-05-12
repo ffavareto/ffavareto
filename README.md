@@ -27,5 +27,5 @@
 
 <ul align="center">
   <li>- O que eu faço - Trabalho com desenvolvimento front-end e ajudo devs iniciantes.</li>
-  <li<- O que estou aprendendo - Angular, Firebase, Python, SQL, Java.</li>
+  <li>- O que estou aprendendo - Angular, Firebase, Python, SQL, Java.</li>
 </ul>

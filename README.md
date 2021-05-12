@@ -2,8 +2,22 @@
 
 ## Desenvolvedor Front-End
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/lucasfavareto/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/faculdadeiv2)
+<p align="center">
+  Javascript | Typescript | Angular | Firebase | Python | HTML | CSS | GIT
+</p>
+
+<a href="https://www.linkedin.com/in/lucasfavareto/" alt="LinkedIn Lucas Favareto Santos">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/favareto_/" alt="Instagram Lucas Favareto Santos">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://wa.me/5511942953003/" alt="WhatsApp Lucas Favareto Santos">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="https://t.me/ffavareto" alt="Telegram Lucas Favareto Santos">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 ### Sobre mim
 

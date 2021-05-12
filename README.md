@@ -23,7 +23,9 @@
 
 <h2 align="center">Sobre mim</h2>
 
-Sou desenvolvedor front-end júnior e instrutor digital na [@faculdadeiv2](https://faculdadeiv2.com.br/).
+<p align="center">Sou desenvolvedor front-end júnior e instrutor digital na [@faculdadeiv2](https://faculdadeiv2.com.br/).</p>
 
-- O que eu faço - Trabalho com desenvolvimento front-end e ajudo devs iniciantes.
-- O que estou aprendendo - Angular, Firebase, Python, SQL, Java.
+<ul align="center">
+  <li>- O que eu faço - Trabalho com desenvolvimento front-end e ajudo devs iniciantes.</li>
+  <li<- O que estou aprendendo - Angular, Firebase, Python, SQL, Java.</li>
+</ul>

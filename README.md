@@ -2,11 +2,11 @@
 
 ## Desenvolvedor Front-End
 
-<p style="text-align: center">
+<p align="center">
   Javascript | Typescript | Angular | Firebase | Python | HTML | CSS | GIT
 </p>
 
-<p style="text-align: center">
+<p align="center">
   <a href="https://www.linkedin.com/in/lucasfavareto/" alt="LinkedIn Lucas Favareto Santos" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

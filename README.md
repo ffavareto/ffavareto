@@ -1,4 +1,4 @@
-<h1 align="center">E aí, eu sou o Lucas! ;)</h1>
+<h1 align="center">Lucas Santos</h1>
 
 <h2 align="center">Desenvolvedor Front-End</h2>
 

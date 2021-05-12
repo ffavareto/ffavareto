@@ -1,6 +1,6 @@
-# E aí, eu sou o Lucas! ;)
+<h1>E aí, eu sou o Lucas! ;)</h1>
 
-## Desenvolvedor Front-End
+<h2>Desenvolvedor Front-End</h2>
 
 <p align="center">
   Javascript | Typescript | Angular | Firebase | Python | HTML | CSS | GIT
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-### Sobre mim
+<h2>Sobre mim</h2>
 
 Sou desenvolvedor front-end júnior e instrutor digital na [@faculdadeiv2](https://faculdadeiv2.com.br/).
 

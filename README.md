@@ -1,6 +1,5 @@
 <h1>Lucas Santos - Desenvolvedor Front-End</h1>
-<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffavareto&layout=compact&langs_count=16&theme=light"/>
-<h2>Sobre mim</h2>
+<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffavareto&layout=compact&langs_count=16&theme=dark"/>
 <h4>Desenvolvedor front-end</h4>
 
 <p>- O que eu faço atualmente: trabalho com desenvolvimento front-end usando Angular.</p>

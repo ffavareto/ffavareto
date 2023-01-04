@@ -1,5 +1,4 @@
 <h1>Lucas Santos - Desenvolvedor Front-End</h1>
-<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffavareto&layout=compact&langs_count=16&theme=dark"/>
 <h4>Desenvolvedor front-end pleno atualmente trabalhando com Angular</h4>
 <p>
   <a href="https://www.linkedin.com/in/lucasfavareto/" alt="LinkedIn Lucas Favareto Santos" target="_blank">

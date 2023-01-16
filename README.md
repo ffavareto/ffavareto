@@ -18,6 +18,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasfavareto" height="30" width="40" />
 </a>
 
+<a href="https://www.linkedin.com/in/lucasfavareto/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp-in-alt.svg" alt="lucasfavareto" height="30" width="40" />
+</a>
+
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>

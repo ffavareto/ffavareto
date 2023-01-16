@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, sou o Lucas</h1>
+<h1 align="center">Oi 👋 sou o Lucas</h1>
 <h3 align="center">Sou desenvolvedor front-end</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 

@@ -10,8 +10,10 @@
 
 - 📫 Como entrar em contato **lucasfavareto.santos@icloud.com**
 
+- <a href="https://cursos.alura.com.br/vitrinedev/lucasfavareto" target="_blank">🎓 Meus cursos/certificados</a>
 
-<h3 align="left">Conecte-se comigo::</h3>
+
+<h3 align="left">Conecte-se comigo:</h3>
 <a href="https://www.linkedin.com/in/lucasfavareto/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasfavareto" height="30" width="40" />
 </a>

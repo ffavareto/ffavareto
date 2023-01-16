@@ -18,8 +18,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasfavareto" height="30" width="40" />
 </a>
 
-<a href="https://www.linkedin.com/in/lucasfavareto/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp-in-alt.svg" alt="lucasfavareto" height="30" width="40" />
+<a href="https://api.whatsapp.com/send?phone=5511961947515" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="lucas favareto" height="30" width="40" />
 </a>
 
 <h3 align="left">Linguagens e ferramentas:</h3>

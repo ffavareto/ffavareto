@@ -1,12 +1,47 @@
-<h1>Lucas Santos - Desenvolvedor Front-End</h1>
-<h4>Desenvolvedor front-end pleno atualmente trabalhando com Angular</h4>
-<p>
-  <a href="https://www.linkedin.com/in/lucasfavareto/" alt="LinkedIn Lucas Favareto Santos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<h1 align="center">Oi 👋, sou o Lucas</h1>
+<h3 align="center">Sou desenvolvedor front-end</h3>
+<img align="right" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
+
+- 🔭 Trabalho na [ECS]([https://www.alura.com.br/](https://ecs.com.br/))
+
+- 🌱 Atualmente estou aprendendo **Flask e Django**
+
+- 💬 Me pergunte sobre **JavaScript, TypeScript e Angular**
+
+- 📫 Como entrar em contato **lucasfavareto.santos@icloud.com**
+
+
+<h3 align="left">Conecte-se comigo::</h3>
+<a href="[https://linkedin.com/in/brunodivino](https://www.linkedin.com/in/lucasfavareto/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasfavareto" height="30" width="40" /></a>
 </p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,git" />
+
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original-wordmark.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40"/>
+  </a>
+
 </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffavareto&show_icons=true&locale=en&layout=compact" alt="ffavareto" /></p>
+  
+<div align="center"> 
+ 
+  ![Snake animation](https://github.com/ffavareto/ffavareto/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+
+

@@ -4,7 +4,7 @@
 
 - 🔭 Trabalho na [ECS]([https://www.alura.com.br/](https://ecs.com.br/))
 
-- 🌱 Atualmente estou aprendendo **Flask e Django**
+- 🌱 Atualmente estou aprendendo **PHP + Laravel**
 
 - 💬 Me pergunte sobre **JavaScript, TypeScript e Angular**
 

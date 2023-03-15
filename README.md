@@ -4,7 +4,7 @@
 
 - 🔭 Trabalho na [ECS]([https://www.alura.com.br/](https://ecs.com.br/))
 
-- 🌱 Atualmente estou aprendendo **PHP + Laravel**
+- 🌱 Atualmente estou aprendendo **Observables, RxJs**
 
 - 💬 Me pergunte sobre **JavaScript, TypeScript e Angular**
 

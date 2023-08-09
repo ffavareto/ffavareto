@@ -10,7 +10,7 @@
 - <a href="https://cursos.alura.com.br/vitrinedev/lucasfavareto" target="_blank">🎓 Meus cursos/certificados</a>
 
 
-<p>Visite meu perfil no <a href="https://www.linkedin.com/in/lucasfavareto/" target="blank">LinkedIn</a></p>
+<p>Visite meu perfil no <a href="https://www.linkedin.com/in/lucasfavareto/" target="_blank">LinkedIn</a></p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">

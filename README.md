@@ -1,12 +1,11 @@
 <h1 align="center">Lucas Santos</h1>
 <h3 align="center">Sou desenvolvedor front-end pleno III na ECS Inovação</h3>
-<img align="right" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
 - 🔭 Atualmente trabalho na [ECS]([https://www.alura.com.br/](https://ecs.com.br/))
 
-- 💬 Me pergunte sobre **JavaScript, TypeScript e Angular**
+- 💬 Me pergunte sobre: **JavaScript, TypeScript e Angular**
 
-- 📫 Como entrar em contato **lucasfavareto.santos@icloud.com**
+- 📫 Como entrar em contato: **lucasfavaretosantos98@gmail.com**
 
 - <a href="https://cursos.alura.com.br/vitrinedev/lucasfavareto" target="_blank">🎓 Meus cursos/certificados</a>
 

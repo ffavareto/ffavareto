@@ -10,11 +10,7 @@
 - <a href="https://cursos.alura.com.br/vitrinedev/lucasfavareto" target="_blank">🎓 Meus cursos/certificados</a>
 
 
-<p>Visite meu perfil no <a href="https://www.linkedin.com/in/lucasfavareto/" target="blank">LinkedIn</a>a</p>
-
-<a href="https://api.whatsapp.com/send?phone=5511961947515" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="lucas favareto" height="30" width="40" />
-</a>
+<p>Visite meu perfil no <a href="https://www.linkedin.com/in/lucasfavareto/" target="blank">LinkedIn</a></p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">

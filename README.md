@@ -1,10 +1,8 @@
 <h1 align="center">Lucas Santos</h1>
-<h3 align="center">Atualmente sou desenvolvedor front-end pleno III na ECS Inovação</h3>
+<h3 align="center">Sou desenvolvedor front-end pleno III na ECS Inovação</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif">
 
-- 🔭 Trabalho na [ECS]([https://www.alura.com.br/](https://ecs.com.br/))
-
-- 🌱 Atualmente estou aprendendo **Dart e Flutter**
+- 🔭 Atualmente trabalho na [ECS]([https://www.alura.com.br/](https://ecs.com.br/))
 
 - 💬 Me pergunte sobre **JavaScript, TypeScript e Angular**
 

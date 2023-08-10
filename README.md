@@ -1,5 +1,6 @@
-<h1 align="center">Lucas Santos</h1>
-<h3 align="center">Sou desenvolvedor front-end pleno III</h3>
+<h1 align="center">Lucas Santos - desenvolvedor front-end pleno</h1>
+
+- ⏳ 4 anos de experiência na área da programação (contando desde o estágio - nov/2019)
 
 - 👨‍💼 Trabalho na ECS - Empowered Company Strategy
 

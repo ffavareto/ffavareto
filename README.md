@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Santos</h1>
-<h3 align="center">Sou desenvolvedor front-end pleno III na ECS Inovação</h3>
+<h3 align="center">Sou desenvolvedor front-end pleno III</h3>
 
-- 👨‍💼 Atualmente trabalho na [ECS]([https://www.alura.com.br/](https://ecs.com.br/))
+- 👨‍💼 Trabalho na ECS - Empowered Company Strategy
 
 - ❓ Me pergunte sobre: **JavaScript, TypeScript e Angular**
 

@@ -4,8 +4,6 @@
 
 - 👨‍💼 Trabalho na ECS - Empowered Company Strategy
 
-- ❓ Me pergunte sobre: **JavaScript, TypeScript e Angular**
-
 - ✉️ Como entrar em contato: **lucasfavaretosantos98@gmail.com**
 
 - <a href="https://cursos.alura.com.br/vitrinedev/lucasfavareto" target="_blank">🎓 Meus cursos/certificados</a>

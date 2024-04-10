@@ -1,4 +1,4 @@
-<h1 align="center">Lucas Santos - desenvolvedor front-end pleno</h1>
+<h1 align="center">Lucas Santos - Desenvolvedor Front-End</h1>
 
 - ⏳ 4 anos de experiência na área da programação (contando desde o estágio - 2019)
 

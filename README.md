@@ -2,8 +2,6 @@
 
 - ⏳ 4 anos de experiência na área da programação (contando desde o estágio - 2019)
 
-- 👨‍💼 Trabalho na ECS - Empowered Company Strategy
+- 👨‍💼 Trabalho como desenvolvedor front-end em uma fábrica de software brasileira
 
 - ✉️ Como entrar em contato: **lucasfavaretosantos98@gmail.com**
-
-- <a href="https://cursos.alura.com.br/vitrinedev/lucasfavareto" target="_blank">🎓 Meus cursos/certificados</a>

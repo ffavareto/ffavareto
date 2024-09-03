@@ -8,4 +8,4 @@ Principais skills:
 Front-end: Angular, JavaScript, TypeScript, HTML5, CSS3, Angular Material, Tailwind CSS, NextJS
 Controle de versão: Git, GitHub
 Testes: Jest, Vitest
-Conhecimento em processos de CI/CD no GitHub Actions e Azure DevOps
+CI/CD: Azure DevOps (yaml) e GitHub Actions

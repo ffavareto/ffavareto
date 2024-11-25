@@ -1,4 +1,4 @@
-Desenvolvedor web com quatro anos de experiência em tecnologias como Angular, JavaScript, TypeScript, HTML5, CSS3, Angular Material e Tailwind CSS.
+Desenvolvedor web com 5 anos de experiência em tecnologias como Angular, JavaScript, TypeScript, HTML5, CSS3, Angular Material e Tailwind CSS.
 
 Participei de projetos novos e legados até refatorações de grandes projetos, quase sempre usando o scrum nas equipes em que trabalhei.
 

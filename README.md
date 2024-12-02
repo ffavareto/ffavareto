@@ -1,15 +1,17 @@
-Desenvolvedor web com 5 anos de experiência em tecnologias como Angular, JavaScript, TypeScript, HTML5, CSS3, Angular Material e Tailwind CSS.
+Sou um profissional com 5 anos de experiência. Atualmente, estou direcionando minha carreira para a área de engenharia de dados, combinando meu histórico técnico com uma formação acadêmica e prática voltada para essa transição.
 
-Participei de projetos novos e legados até refatorações de grandes projetos, quase sempre usando o scrum nas equipes em que trabalhei.
+Caminho na Engenharia de Dados:
+- Atuo na integração com o time de dados da empresa onde trabalho, colaborando em projetos e ganhando experiência prática;
+- Estou cursando uma graduação na área de dados (detalhes disponíveis no meu perfil);
+- Dedico-me ao aprendizado contínuo das habilidades técnicas essenciais, como manipulação de dados, criação de pipelines e uso de ferramentas específicas da área.
 
-Tive a oportunidade de participar ativamente da migração de um grande projeto da área farmacêutica. Essa experiência foi muito importante pois pude contribuir para a modernização de uma plataforma que conecta mais de 50 mil farmácias e drogarias.
+Estou aprendendo sobre:
+- SQL & Python para engenharia de dados
+- Matemática
+- Serviços AWS: Focado em conseguir a certificação Cloud Practitioner
 
-Principais skills:
-
-Front-end: Angular, JavaScript, TypeScript, HTML5, CSS3, Angular Material, Tailwind CSS, NextJS
-
-Controle de versão: Git, GitHub
-
-Testes: Jest, Vitest
-
-CI/CD: Azure DevOps (yaml) e GitHub Actions
+Experiência em Front-End:
+- JavaScript, TypeScript;
+- Angular, Angular Material, Prime NG;
+- Tailwind CSS, Bootstrap, SCSS;
+- Git, GitHub, GitLab, Azure DevOps, Pipelines, GitHub Actions.

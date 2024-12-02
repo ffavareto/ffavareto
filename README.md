@@ -2,7 +2,7 @@ Sou um profissional com 5 anos de experiência. Atualmente, estou direcionando m
 
 Caminho na Engenharia de Dados:
 - Atuo na integração com o time de dados da empresa onde trabalho, colaborando em projetos e ganhando experiência prática;
-- Estou cursando uma graduação na área de dados (detalhes disponíveis no meu perfil);
+- Iniciei uma graduação em banco de dados - engenharia de dados;
 - Dedico-me ao aprendizado contínuo das habilidades técnicas essenciais, como manipulação de dados, criação de pipelines e uso de ferramentas específicas da área.
 
 Estou aprendendo sobre:

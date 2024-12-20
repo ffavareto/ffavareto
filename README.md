@@ -7,7 +7,6 @@ Caminho na Engenharia de Dados:
 
 Estou aprendendo sobre:
 - SQL & Python para engenharia de dados
-- Matemática
 - Serviços AWS: Focado em conseguir a certificação Cloud Practitioner
 
 Experiência em Front-End:
